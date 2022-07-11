@@ -1,6 +1,6 @@
 - Hi, I’m @BHammock33
 - I’m interested in computer science, music, biology
-- I’m currently learning python and C
+- I’m currently learning Java and HTML
 - I’m looking to collaborate on 
 - How to reach me 
 

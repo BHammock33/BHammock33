@@ -1,6 +1,5 @@
 - Hi, I’m @BHammock33
-- I’m interested in computer science, music, and biology
-- I’m currently learning Java and HTML 
+- I’m interested in computer science, java programming, and sports.
 - BennettHammock@gmail.com
 
 <!---

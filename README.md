@@ -1,6 +1,9 @@
-- Hi, I’m @BHammock33
-- I’m interested in computer science, java programming, and sports.
-- BennettHammock@gmail.com
+Bennett Hammock
+www.linkedin.com/in/bennett-hammock
+BennettHammock@gmail.com
+
+Full Stack Java Developer with skills in Thymeleaf, JavaScript, Maven, MySQL, Spring, and Hibernate
+
 
 <!---
 BHammock33/BHammock33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

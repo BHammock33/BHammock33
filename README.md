@@ -3,7 +3,7 @@ www.linkedin.com/in/bennett-hammock
 
 BennettHammock@gmail.com
 
-Full Stack Java Developer with skills in Thymeleaf, JavaScript, Maven, MySQL, Spring, and Hibernate
+Full Stack Java Developer with skills in React, Thymeleaf, JavaScript, Maven, MySQL, Spring, and Hibernate
 
 
 <!---

@@ -1,9 +1,34 @@
-Bennett Hammock
-www.linkedin.com/in/bennett-hammock
+## Hello!   
+### My name is Bennett Hammock and I am a Full Stack Java/React Developer 
+### If I'm not coding I'm relaxing with my lovely wife and chunky Pup, watching hockey, fishing, or playing D&D
 
-BennettHammock@gmail.com
+## Tech  
 
-Full Stack Java Developer with skills in React, Thymeleaf, JavaScript, Maven, MySQL, Spring, and Hibernate
+---  
+
+### Languages  
+- Java
+- JavaScript
+- HTML
+- CSS
+- Moderate Python Experience
+
+### Frameworks
+- React
+- Spring
+- Thymeleaf
+- Hibernate
+
+### Databases
+- MySQL
+
+### Other Skills
+- Bash
+- Windows
+- REST APIs
+- MAVEN
+- GitHub
+
 
 
 <!---

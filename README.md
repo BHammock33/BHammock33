@@ -1,5 +1,5 @@
 ## Hello!🖖     
-### My name is Bennett Hammock and I am a Full Stack Java/React Developer 
+### My name is Bennett Hammock and I am a Full Stack Developer 
 ### If I'm not coding I'm relaxing with my lovely wife and chunky Pup, watching hockey, fishing, or playing D&D 🎲	
 
 ## Tech  

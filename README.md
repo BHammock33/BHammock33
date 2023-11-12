@@ -9,25 +9,30 @@
 ### Languages  
 - Java
 - JavaScript
+- React
+- PHP
+- Python
 - HTML
 - CSS
-- Moderate Python Experience
 
 ### Frameworks
 - React
 - Spring
+- Laravel
+- XAMPP
 - Thymeleaf
 - Hibernate
 
 ### Databases
 - MySQL
+- MongoDB
 
 ### Other Skills
 - Bash
 - Windows
 - REST APIs
 - MAVEN
-- GitHub
+- Git
 
 
 

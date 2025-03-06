@@ -1,5 +1,6 @@
 ## Hello!🖖     
 ### My name is Bennett Hammock and I am a Full Stack Engineer
+### I am currently working with We Make Good Software on a Full Stack Java and React app to help online course creators increase student success
 ### If I'm not coding I'm relaxing with my lovely wife and chunky Pup, watching hockey, fishing, or playing D&D 🎲	
 
 ## Tech  
